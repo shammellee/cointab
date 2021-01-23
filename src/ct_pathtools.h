@@ -1,0 +1,7 @@
+#ifndef CT_PATHTOOLS_H
+#define CT_PATHTOOLS_H
+
+#define CT_PATH_LENGTH_MAX 4096
+
+#endif // CT_PATHTOOLS_H
+
